@@ -1,7 +1,7 @@
 # Hello, I'm Spencer Denham
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/spencer-denham-93470323b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+
 
 I am a current student studying a Bachelors of Information Technology, with a passion for cybersecuirty.
 
@@ -13,7 +13,7 @@ After completing my certificate IV in cybersecurity, I decided to further my stu
 
 | Skill                            | Associated Project         |
 |----------------------------------|----------------------------|
-|      Windows Forensics 1         | <a href="https://google.com">Detection Lab</a>|
+|      Windows Forensics          | <a href="https://github.com/SD871-hub/Windows-Forensics-1/tree/main">Windows Forensics 1 </a>|
 
 ## Tools
 
@@ -25,3 +25,4 @@ After completing my certificate IV in cybersecurity, I decided to further my stu
 </div>
 
 ## Projects
+ <a href="https://github.com/SD871-hub/Windows-Forensics-1/tree/main">Windows Forensics 1 </a>
